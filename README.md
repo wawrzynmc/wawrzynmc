@@ -57,4 +57,5 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="padding:10px 10px 0 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://pl.linkedin.com/public-profile/in/karol-wawrze%C5%84czyk-2054b0166?challengeId=AQH-AaqX0LnoOgAAAXQpzawYLIejAG_FT4Qo9MvPXwgTFp6dIKno4FgEHkVv-xQPHllwJ7cGCBPNnPMec2P3aFVzzY7vDT3ICg&submissionId=c151ef80-dec2-2e16-07bc-0094557ea029) 
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" style="padding:10px 10px 0 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wawrzynmc/)
 
+<br><br>
 <hr>
