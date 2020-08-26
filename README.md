@@ -59,3 +59,15 @@
 
 <br><br>
 <hr>
+
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wawrzynmc&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: Top Langs</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawrzynmc" />
+</details>
+
