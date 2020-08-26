@@ -9,7 +9,7 @@
 - 📚 Currently learning everything 🔝
 - 💡 Fun fact: I love doggos
 
-## Goals 🥅 
+### Goals 🥅 
 - Create and develope my own projects 
 - Learn more about web technologies 
 - Hold your head up and make rocket science
