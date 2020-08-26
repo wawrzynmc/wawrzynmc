@@ -58,9 +58,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" style="padding:10px 10px 0 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wawrzynmc/)
 
 <br><br>
+
 <hr>
 
----
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wawrzynmc&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
