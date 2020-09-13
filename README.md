@@ -12,7 +12,7 @@
 ### Goals 🥅 
 - Create and develope my own projects 
 - Learn more about web technologies 
-- Hold your head up and make rocket science
+- Hold my head up and make rocket science
 - Smile at people 🙂🙂🙂
 
 <hr>
