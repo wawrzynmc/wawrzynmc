@@ -10,7 +10,7 @@
 - 💡 Fun fact: I love doggos
 
 ### Goals 🥅 
-- Create and develope my own projects 
+- Create and develop my own projects 
 - Learn more about web technologies 
 - Hold my head up and make rocket science
 - Smile at people 🙂🙂🙂
